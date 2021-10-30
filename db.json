@@ -1,0 +1,118 @@
+{
+  "repositories": [
+    {
+      "id": 1,
+      "author": "CSSEGISandData",
+      "reponame": "COVID-19",
+      "repourl": "https://github.com/CSSEGISandData/COVID-19",
+      "repodesc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
+      "language": "Python",
+      "langcolor": "",
+      "stars": 3,
+      "forks": 303,
+      "laststars": 10,
+      "builtby": [
+        {
+          "username": "CSSEGISandData",
+          "url": "https://github.com/CSSEGISandData",
+          "avatar": "https://avatars3.githubusercontent.com/u/60674295?s=40&v=4"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "author": "Yuanming Hu",
+      "reponame": "taichi",
+      "repourl": "https://github.com/taichi-dev/taichi",
+      "repodesc": "Parallel programming for everyone.",
+      "language": "C++",
+      "langcolor": "",
+      "stars": 16201,
+      "forks": 1704,
+      "laststars": 36,
+      "builtby": [
+        {
+          "username": "yuanming-hu",
+          "url": "https://github.com/yuanming-hu",
+          "avatar": "https://avatars.githubusercontent.com/u/6553256?v=4&s=40"
+        },
+        {
+          "username": "archibate",
+          "url": "https://github.com/archibate",
+          "avatar": "https://avatars.githubusercontent.com/u/20640597?v=4&s=40"
+        },
+        {
+          "username": "k-ye",
+          "url": "https://github.com/k-ye",
+          "avatar": "https://avatars.githubusercontent.com/u/7481356?v=4&s=40"
+        },
+        {
+          "username": "xumingkuan",
+          "url": "https://github.com/xumingkuan",
+          "avatar": "https://avatars.githubusercontent.com/u/22582118?v=4&s=40"
+        },
+        {
+          "username": "ailzhang",
+          "url": "https://github.com/ailzhang",
+          "avatar": "https://avatars.githubusercontent.com/u/5248122?v=4&s=40"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "author": "ZhangNanBei",
+      "reponame": "WorkingTime",
+      "repourl": "https://github.com/WorkerLivesMatter/WorkingTime",
+      "repodesc": "",
+      "language": "",
+      "langcolor": "",
+      "stars": 12627,
+      "forks": 690,
+      "laststars": 164,
+      "builtby": [
+        {
+          "username": "ZhangNanBei",
+          "url": "https://github.com/ZhangNanBei",
+          "avatar": "https://avatars.githubusercontent.com/u/49771486?v=4&s=40"
+        },
+        {
+          "username": "WorkerLivesMatter",
+          "url": "https://github.com/WorkerLivesMatter",
+          "avatar": "https://avatars.githubusercontent.com/u/92354016?v=4&s=40"
+        }
+      ]
+    }
+  ],
+  "developers": [
+    {
+      "id": 1,
+      "author": "James Montemagno",
+      "username": "jamesmontemagno",
+      "avatar": "https://avatars3.githubusercontent.com/u/1676321?s=96&v=4",
+      "url": "https://github.com/jamesmontemagno",
+      "reponame": "Xamarin.Plugins",
+      "repourl": "https://github.com/jamesmontemagno/Xamarin.Plugins",
+      "description": "Cross platform xamarin and windows plugins for PCLs"
+    },
+    {
+      "id": 2,
+      "author": "迷渡",
+      "username": "justjavac",
+      "avatar": "https://avatars.githubusercontent.com/u/359395?s=96&v=4",
+      "url": "https://github.com/jamesmontemagno",
+      "reponame": "free programming books",
+      "repourl": "https://github.com/justjavac/free-programming-books-zh_CN",
+      "description": "📚 免费的计算机编程类中文书籍，欢迎投稿"
+    },
+    {
+      "id": 3,
+      "author": "Nick O'Leary",
+      "username": "knolleary",
+      "avatar": "https://avatars.githubusercontent.com/u/51083?s=96&v=4",
+      "url": "https://github.com/knolleary",
+      "reponame": "pubsubclient",
+      "repourl": "https://github.com/knolleary/pubsubclient",
+      "description": "A client library for the Arduino Ethernet Shield that provides support for MQTT."
+    }
+  ]
+}
